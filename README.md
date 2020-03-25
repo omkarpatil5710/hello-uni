@@ -1,2 +1,3 @@
 # hello-uni
-This is my second attempt to see how much have i grasped.
+
+Here I am back again.I should stop procrastinating and complete this py course within a week or something ngl.
